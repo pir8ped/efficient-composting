@@ -1,0 +1,83 @@
+Structure
+Introduction:
+
+The introduction is a bit abrupt. Consider starting with a brief overview that sets the stage for the reader, such as mentioning your experience in composting and the challenges you faced. This helps the reader understand the context before diving into the details.
+Logical Flow:
+
+The narrative jumps between personal experiences, problems, and solutions in a way that might be confusing for some readers. Organizing the text into clear sections with headings would help. For example:
+Challenges with Traditional Composting
+Introducing Humanure
+The Rat Problem and the Solution
+The Benefits of the New System
+How to Implement This System
+This structure allows the reader to follow your thought process more easily.
+Conclusion:
+
+A concise conclusion summarizing the key benefits of your system and its impact on your garden would leave a strong impression. It could also include a call to action, encouraging readers to try the method themselves.
+Clarity
+Simplify Complex Sentences:
+
+Some sentences are long and packed with multiple ideas, which can make them harder to follow. Breaking these into shorter, more digestible sentences would improve readability.
+For example:
+
+Original: "But the crops I was harvesting were often disappointing. Even supplementing my compost with rotted manure, some crops were ok, but ‘greedy feeders’ like cauliflowers and Brussel sprouts were poor."
+Revised: "However, the crops I harvested were often disappointing. Even when I supplemented my compost with rotted manure, only some crops were satisfactory. 'Greedy feeders' like cauliflowers and Brussels sprouts performed poorly."
+Clarify Technical Details:
+
+While the explanation of your composting system is detailed, some technical aspects might benefit from further clarification, especially for readers who are less familiar with composting. For example, explaining what "humanure" is in simpler terms or providing more context about the importance of aeration in composting could be helpful.
+Consistent Terminology:
+
+Be consistent with terminology. For instance, you refer to "compost heaps," "bins," and "the heap." Stick to one term (like "compost bin" or "heap") throughout to avoid confusion.
+Accuracy
+fertiliser in Commercial Compost:
+
+The claim that "commercially sold compost" contains plastic balls filled with fertiliser is a strong statement that might need more specificity. This might not be true for all commercial composts. Clarify that this applies to specific types of compost products, such as slow-release fertiliser-enriched composts, and not necessarily all commercial compost.
+Nutrient Loss:
+
+You mention nutrients washing out of the heap and into the ground. This point is important but could be expanded with a brief explanation of why this happens (e.g., due to leaching caused by rain or inadequate containment) and how it impacts the effectiveness of compost as a fertiliser.
+Humanure Composting:
+
+Ensure that your discussion of humanure composting includes any necessary precautions, such as proper composting times and temperatures required to safely break down pathogens, if not already mentioned. This is critical for accuracy and safety.
+Engagement
+Personal Experience:
+
+Your personal experiences make the text relatable and engaging. However, balancing these anecdotes with practical, actionable advice would strengthen the piece. For example, after describing a problem you faced, immediately offer a solution or tip that readers can apply to their own composting practices.
+Questions and Reader Interaction:
+
+Pose questions to the reader to engage them more directly, such as, "Have you noticed poor results in your garden despite regular composting?" This invites them to reflect on their own experiences and continue reading for solutions.
+Visual Aids:
+
+If this is part of a larger guide or website, consider adding diagrams or photos of your compost setup. Visual aids can help clarify complex concepts and make your system more accessible to readers.
+Revised Excerpt
+Here’s a potential revision of the text:
+
+The Challenge of Traditional Composting
+
+I’ve been composting for years, using the resulting compost on my vegetable beds and around my fruit trees. Over time, my soil, once hard clay that baked in the summer sun, has become more structured and friable, teeming with worms and other beneficial creatures. The soil is now much easier to work. Despite these improvements, my crops were often disappointing. Even with the addition of rotted manure, 'greedy feeders' like cauliflowers and Brussels sprouts struggled to thrive.
+
+The Humanure Experiment
+
+For the last ten years, I’ve been supplementing my compost with humanure – a mix of our toilet waste and sawdust (see the humanure guide for details). While this added some fertility, my crops still weren’t prize-winning, and the effort seemed disproportionate to the results.
+
+The Nutrient Loss Problem
+
+I planted a walnut tree downhill from my compost heaps, hoping it would benefit from the nutrients I expected to be abundant in my compost. However, the reality was different. Nutrients were washing out of the heap and into the ground, leaving my compost less potent than I anticipated. Even with a rain cover, the compost didn’t provide the robust nutrition my plants needed. I realized that while compost is excellent for improving soil structure, it doesn’t always deliver the nutrients plants crave.
+
+The Commercial Compost Conundrum
+
+Commercial composts often include tiny blue or green plastic balls. These aren’t contaminants; they’re deliberately added slow-release fertilisers encased in plastic. While effective, these plastic particles remain in the soil long after the compost has broken down. Is it possible to make homemade compost that’s as fertile as these commercially fortified options, without the plastic? Absolutely – and with even greater fertility if desired.
+
+Striking the Right Balance
+
+Through my experimentation, I learned that over-fertilising, especially with trees, can cause rapid growth but weak wood that’s prone to damage and pests. Vegetables, however, are harder to overfeed, particularly modern varieties bred for higher yields. These plants need more nutrients to produce their abundant crops. While heirloom varieties require less fertilisation, they often yield smaller harvests, requiring more space and effort.
+
+Solving the Rat Problem – and More
+
+One persistent issue was the rats that found a home in my compost heaps. No matter how many I trapped or how vigilant the local cats were, the heaps provided them with food, warmth, and shelter. Whether I added cooked scraps or raw materials, the rats thrived.
+
+The solution to the rat problem led me to solve my fertilisation issues as well. I built compost bins on a concrete base with masonry walls. This kept out the rats and allowed for better control of the composting process. An airbrick at the bottom of the wall ensured adequate airflow, while a plastic pallet and stainless steel mesh raised the heap, allowing it to drain freely. The collected liquid, rich in nutrients, became a powerful plant feed when diluted.
+
+The Result
+
+This system produces rich, evenly decayed compost without the need for turning. The liquid that drains from the heap is an amber-coloured fertiliser far superior to the usual 'nettle tea.' With two bins in rotation, I always have a supply of 'black gold' compost and nutritious liquid feed, providing all the fertility my garden needs.
+

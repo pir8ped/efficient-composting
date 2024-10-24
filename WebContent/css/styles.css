@@ -1,0 +1,200 @@
+body {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.container {
+	display: flex;
+	width: 100%;
+	flex-grow: 1;
+}
+
+.sidebar {
+	background-color: #c2f0c2;
+	width: 250px;
+	padding: 20px;
+	box-sizing: border-box;
+	flex-shrink: 0;
+}
+
+.logo {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-bottom: 20px;
+	word-wrap: break-word; /* Ensure long text wraps */
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+nav ul li {
+	margin: 10px 0;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 1em;
+	display: block;
+	padding: 10px;
+}
+
+nav ul li a.active {
+	background-color: #8fbc8f;
+	font-weight: bold;
+}
+
+.content-container {
+	background-color: #ffffec;
+	display: flex;
+	justify-content: center; /* Center horizontally */
+	flex-grow: 1;
+	padding: 20px; /* Add padding for better alignment */
+	box-sizing: border-box;
+}
+
+.content {
+	background-color: #ffffe1;
+	padding: 20px;
+	max-width: 800px; /* Adjust this value as needed */
+	width: 100%;
+	box-sizing: border-box;
+	border-radius: 8px; /* Optional: add rounded corners */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	/* Optional: add a shadow for a nicer look */
+	margin-top: 20px; /* Ensures content starts near the top */
+	margin-bottom: 20px; /* Add bottom margin for spacing */
+}
+
+header {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+main {
+	text-align: left;
+}
+
+h1, h2, h3 {
+	color: #3cb371;
+}
+
+@media ( max-width : 768px) {
+	.container {
+		flex-direction: column;
+	}
+	.sidebar {
+		width: 100%;
+	}
+	.content {
+		max-width: 100%;
+		margin-top: 20px;
+		/* Ensure consistent top margin on smaller screens */
+	}
+}
+
+.image-container {
+	overflow: hidden;
+	margin-bottom: 20px; /* Space below each image container */
+	max-width: 300px; /* Constrain the container's width */
+	float: left;
+}
+
+.image-container img {
+	width: 100%; /* Ensure the image fills the container */
+	max-width: 300px;
+	/* Ensure the image doesn’t exceed the container’s width */
+	height: auto; /* Maintain the aspect ratio */
+	display: block;
+	/* Ensure the image is treated as a block-level element */
+}
+
+.right-image-container {
+	float: right;
+	margin: 10px 0 10px 10px;
+	/* Adjust margins for the right-floated image */
+	max-width: 300px; /* Constrain the container's width */
+}
+
+.left-image-container {
+	float: left;
+	margin: 10px 10px 10px 0;
+	/* Adjust margins for the left-floated image */
+	max-width: 300px; /* Constrain the container's width */
+}
+
+.image-label {
+	margin-top: 8px; /* Space between the image and the label */
+	font-size: 14px; /* Adjust font size as needed */
+	color: #333; /* Label color */
+	text-align: center; /* Center the label under the image */
+	clear: both;
+	/* Clear any floats so the label appears below the image */
+}
+
+.full-width-image {
+	width: 100%;
+	/* Allow the image to fill the full width of the content column */
+	max-width: 100%;
+	/* Ensure the image does not exceed the content's width */
+	height: auto; /* Maintain the aspect ratio */
+	margin: 20px 0; /* Add some vertical space around the image */
+	display: block;
+	/* Ensure the image is treated as a block-level element */
+}
+
+.clear {
+	clear: both;
+	/* Ensures that elements after the floating elements start on a new line */
+}
+
+#contact-form {
+	max-width: 600px; /* Adjust the width as needed */
+	margin: 0 auto; /* Center the form */
+	padding: 20px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+}
+
+#contact-form label {
+	font-weight: bold;
+	display: block;
+	margin-bottom: 5px;
+}
+
+#contact-form input[type="text"], #contact-form input[type="email"],
+	#contact-form textarea {
+	width: 100%;
+	/* Make the input fields and textarea take the full width */
+	padding: 10px; /* Add padding inside the fields */
+	border: 1px solid #ccc; /* Add a border */
+	border-radius: 4px; /* Round the corners */
+	box-sizing: border-box;
+	/* Include padding and border in element's total width and height */
+}
+
+#contact-form textarea {
+	resize: vertical; /* Allow users to resize the textarea vertically */
+}
+
+#contact-form button {
+	background-color: #c2f0c2;; /* Button background color */
+	color: black; /* Button text color */
+	border: none; /* Remove border */
+	padding: 10px 20px; /* Add padding */
+	border-radius: 4px; /* Round the corners */
+	cursor: pointer; /* Change cursor on hover */
+	font-size: 16px; /* Font size of button text */
+}
+
+#contact-form button:hover {
+	background-color: #0056b3; /* Darker color on hover */
+}
